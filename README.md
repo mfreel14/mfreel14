@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfreel14
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in environmental challenges, business performance, supply chain.  
 - 🌱 I’m currently learning Data Analytics and Visualization
 - 💞️ I’m looking to collaborate on anything!  
